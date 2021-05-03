@@ -37,6 +37,7 @@ footer{
     position: relative;
     font-family: 'digital-clock-font';
     font-size:250pt;
+    margin: 5%;
 }
 
 .container{
